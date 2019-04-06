@@ -1,2 +1,2 @@
-# easyFuzz
-Creating "easyFuzz" for fun and learning
+# easyFridayFuzz
+*easyFridayFuzz* is just for fun and learning.
